@@ -3,4 +3,6 @@ this is my first  git repositor
 <br>
 author -mrityunjay mishra
 <br>
-author-ujjwal mishra
+author-lucky mishra
+<br>
+android developer 
