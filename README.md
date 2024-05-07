@@ -10,4 +10,8 @@ android developer
 new to git
 <br>
 still learning
+<br>
+learning till alive 
+<br>
+be better 1% daily
 
