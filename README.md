@@ -18,5 +18,6 @@ be better 1% daily
 slow progress is better than no progress
 hello world
 hey there
-
+new repo hello world
+sql
 
